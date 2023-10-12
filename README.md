@@ -17,7 +17,7 @@ The goal is to determine whether there are spatial disparities in the distributi
 
 ## Workshop Outline:
 
-- Data management
+- Data management and geocoding
 - Introduction to the Modifiable Areal Unit Problem (MAUP)
 - Frontier effect
 - Hot Spot Detection and spatial autocorrelation
