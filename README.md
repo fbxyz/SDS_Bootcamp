@@ -28,7 +28,7 @@ This workshop requires Python 3.x (tested with 3.9). The main packages used are 
 - [geopandas](https://github.com/geopandas/geopandas) for handling geographic data
 - [h3pandas](https://github.com/DahnJ/H3-Pandas) for spatial aggregation
 - [matplotlib](https://github.com/matplotlib/matplotlib) for mapping
-- [scipy](https://github.com/scipy/scipy) and [esda](https://github.com/pysal/esda) for statistical calculations 
+- [scipy](https://github.com/scipy/scipy) and [splot](https://github.com/pysal/splot) and [esda](https://github.com/pysal/esda) for statistical calculations 
 - [libpysal](https://github.com/pysal/libpysal) for creating spatial weight matrices
 - [geopy](https://github.com/geopy/geopy) for calculating distances from geographic coordinates
 - and [Jupyter lab](https://github.com/jupyterlab/jupyterlab).
@@ -47,7 +47,7 @@ conda activate bootcamp_level
 ```
 3.Install packages with mamba
 ```
-mamba install -c conda-forge geopandas h3pandas matplotlib scipy libpysal esda geopy notebook jupyterlab
+mamba install -c conda-forge geopandas h3pandas matplotlib scipy libpysal esda splot geopy notebook jupyterlab
 ```
 
 4. Optionally, add the environment as a Jupyter kernel
