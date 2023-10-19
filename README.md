@@ -47,7 +47,7 @@ conda activate bootcamp_level
 ```
 3.Install packages with mamba
 ```
-mamba install -c conda-forge geopandas h3pandas matplotlib scipy libpysal geopy notebook jupyterlab
+mamba install -c conda-forge geopandas h3pandas matplotlib scipy libpysal esda geopy notebook jupyterlab
 ```
 
 4. Optionally, add the environment as a Jupyter kernel
