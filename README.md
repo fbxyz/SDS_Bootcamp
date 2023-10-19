@@ -42,14 +42,19 @@ cd SDS_Bootcamp
 ```
 2. Create and activate the conda environment
 ```
-conda env create --file environment.yml
+conda create -n bootcamp_level python=3.9 mamba -c conda-forge
 conda activate bootcamp_level
 ```
-3. Optionally, add the environment as a Jupyter kernel
+3.Install packages with mamba
+```
+mamba install -c conda-forge geopandas h3pandas matplotlib scipy libpysal geopy notebook jupyterlab
+```
+
+4. Optionally, add the environment as a Jupyter kernel
 ```
 python -m ipykernel install --sys-prefix --name bootcamp_level
 ```
-4. Launch Jupyter Notebook or Jupyter Lab
+5. Launch Jupyter Notebook or Jupyter Lab
 ```
 jupyter lab
 ```
