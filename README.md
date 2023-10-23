@@ -17,10 +17,10 @@ The goal is to determine whether there are spatial disparities in the distributi
 
 ## Workshop Outline:
 
-- Data management and geocoding
+- Spatial data management and geocoding
 - Introduction to the Modifiable Areal Unit Problem (MAUP)
 - Frontier effect
-- Hot Spot Detection and spatial autocorrelation
+- Spatial autocorrelation and Hot Spot Detection
 
 ## Instructions
 
