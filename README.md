@@ -9,11 +9,11 @@ Health geographer at Agence de la biomédecine, University lecturer at Paris Pan
 ## Objective
 The objective of this workshop is to provide an overview of spatial analysis tools that enable leveraging spatial dimension in your analyses.
 
-The data comes from the [french health ministry.](https://annuaire.sante.fr/web/site-pro/extractions-publiques)
-
 We will focus on the issue of the spatial distribution of self-employed general practitioners (not employed by a healthcare institution) in Paris and its outskirts. 
 
 The goal is to determine whether there are spatial disparities in the distribution of general practitioners related to the population.
+
+The data comes from the [french health ministry.](https://annuaire.sante.fr/web/site-pro/extractions-publiques)
 
 ## Workshop Outline:
 
@@ -33,7 +33,7 @@ This workshop requires Python 3.x (tested with 3.9). The main packages used are 
 - [geopy](https://github.com/geopy/geopy) for calculating distances from geographic coordinates
 - and [Jupyter lab](https://github.com/jupyterlab/jupyterlab).
 
-You can install them in your preferred Python virtual environment or use conda with the environment.yml file :
+You can install them in your preferred Python virtual environment or use conda :
 
 1. First clone this git repo
 ```
