@@ -1,3 +1,33 @@
+:root {
+  --text-color: #eee8d5;
+  --bg-color: #152744;
+}
+
+.jp-RenderedHTMLCommon {
+  color: var(--text-color) !important;
+}
+
 .reveal .slides > section {
-  background-color: #002b36 !important; 
+  background-color: var(--bg-color) !important;
+}
+
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  color: var(--text-color) !important;
+}
+
+.reveal .controls button {
+  color: var(--text-color) !important;
+}
+
+
+.icon {
+  display: flex;
+  align-items: center; /* Vertical alignment */
+  padding: 5px; /* Spacing around the icon and text */
+}
+
+.icon i {
+  margin-top: 8px;
+  margin-right: 5px; /* Spacing between the icon and text */
+  padding-right: 5px; /* Spacing after the vertical bar */
 }
