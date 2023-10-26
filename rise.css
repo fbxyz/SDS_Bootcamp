@@ -39,3 +39,7 @@
   margin-right: 5px; /* Spacing between the icon and text */
   padding-right: 5px; /* Spacing after the vertical bar */
 }
+
+.center {
+  text-align: center;
+}
