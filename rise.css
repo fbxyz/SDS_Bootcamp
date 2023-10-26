@@ -19,6 +19,14 @@
   color: var(--text-color) !important;
 }
 
+.jp-Notebook .jp-Cell:not(.jp-mod-active) .jp-InputPrompt {
+  color: var(--text-color) !important;
+}
+
+.rise-enabled .jp-OutputArea pre {
+  color: var(--text-color) !important;
+}
+
 
 .icon {
   display: flex;
