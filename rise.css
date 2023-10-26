@@ -7,6 +7,10 @@
   color: var(--text-color) !important;
 }
 
+.rise-enabled .jp-OutputArea-output {
+  text-align: center;
+}
+
 .reveal .slides > section {
   background-color: var(--bg-color) !important;
 }
