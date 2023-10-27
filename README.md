@@ -6,6 +6,11 @@
 
 Health geographer at Agence de la biomédecine, University lecturer at Paris Panthéon Sorbonne and ENSG
 
+## To access the presentation 
+- Via [BC_1_GPs.ipynb](BC_1_GPs.ipynb)
+- Or the [html export](https://rawcdn.githack.com/fbxyz/SDS_Bootcamp/ff02e71ea015dfef115c6afadd3f2ea7f2fb8c12/BC_1_GPs.html)
+- Or using [Rise](https://rise.readthedocs.io/en/latest/) in Jupyter
+
 ## Objective
 The aim of this workshop is to deliver an **overview** of spatial analysis tools that enable leveraging spatial dimension in your analyses.
 
